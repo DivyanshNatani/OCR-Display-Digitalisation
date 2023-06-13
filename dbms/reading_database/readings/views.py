@@ -3,7 +3,7 @@ from django.shortcuts import render
 from rest_framework.decorators import api_view
 # from rest_framework.response import Response
 from django.http import JsonResponse, HttpResponse
-from .models import reading
+from .models import reading, table_reading
 from datetime import datetime
 
 # Create your views here.
@@ -29,7 +29,7 @@ def add_reading_data(request):
     info=request.GET
     if info.get('data')==None:
         return JsonResponse({'status', 'Bad request'})
-    data = reading()
+    data = table_reading()
     # data.time_of_recording = info['rid']
     data.reading_value = info['data']
     if info.get('time_of_reading') !=None:
