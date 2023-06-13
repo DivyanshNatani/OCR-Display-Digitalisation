@@ -6,7 +6,7 @@ This is my B.Tech project done under Prof. Mani Bhushan, Department of Chemical 
 
 This projects aims to completely digitalise the currently man-handelled displays (where the recording of data is done manually and stored physically) at various Chemical Industries using techniques of Computer Vision. 
 
-Detailed [report](Report.pdf) and [presentation](Presentation.pdf) have been added for more details.
+Detailed [report]([Report.pdf](https://drive.google.com/file/d/1oS--QOayo_Hcb-_ygDwRSJEnoWy-9lkg/view?usp=sharing)) and [presentation]([Presentation.pdf](https://drive.google.com/file/d/15a3tnFkzn1EEt_dlt4NlLaUw2Xu_V9VF/view?usp=sharing)) have been added for more details.
 
 ### Workflow
 
@@ -29,3 +29,6 @@ It contains all Django related files and database files
 This folder contains all image processing trial notebook files
 - Python Server
 This folder contains file pertaining to Part 1 and 2 of the project (Details of file inside)
+
+### Demo Video
+You can find the demo video at this [link](https://drive.google.com/drive/folders/1uaRYC8d0V4uPPeJUpU6bN3yIZhUFDA6v?usp=sharing)
