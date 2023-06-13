@@ -14,3 +14,6 @@ These files use imutils, cv2 packages along with matplotlib and numpy libraries
 ```
 pip install imutils
 ```
+
+
+**Note** If some image file link does not respond in above jupyter file, then try them out with '/images/<image-name>
